@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;700&display=swap");
+
+
+.footer {
+  font-family: "Quicksand", sans-serif !important;
+  color: #666;  
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
